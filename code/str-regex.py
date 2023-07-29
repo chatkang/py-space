@@ -17,7 +17,7 @@ print(s.find('onkot')) # 찾는 문자열이 없으면 -1
 # %% 메소드 index()
 s = 'python kotrin'
 print(s.index('rin'))
-print(s.index('java')) # 오류 발생
+# print(s.index('java')) # 오류 발생
 
 # %% 모듈 re
 import re             # re.serarch() 사용
